@@ -1,6 +1,6 @@
 # 🛍️ ShopSphere — Full-Stack MERN E-Commerce Platform & Admin Suite
 
-[![CI Status](https://github.com/your-username/shopsphere/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/shopsphere/actions)
+[![CI Status](https://github.com/vishwa-john/shopsphere/actions/workflows/ci.yml/badge.svg)](https://github.com/vishwa-john/shopsphere/actions)
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite)](https://vitejs.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js)](https://nodejs.org/)
@@ -49,7 +49,7 @@ A production-grade full-stack MERN e-commerce application engineered for high se
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/your-username/shopsphere.git
+git clone https://github.com/vishwa-john/shopsphere.git
 cd shopsphere
 
 # Install root orchestrator and child packages
